@@ -1,6 +1,24 @@
 ## Hi there 👋
+- I am currently a 3rd year Computer Science + Applied Mathematics student at Stony Brook University!
+- ⚡ About me:
+  - I'm very interested in Web Development, Data Science and Machine Learning/AI!
+  - I enjoy competitive programming. Check me out at https://codeforces.com/profile/JCrossover_14!
+  - I'm an avid chess player + chess variants player.
 
+# Projects
+- Check out some of my projects in my profile repository!
 
+# Interests
+- Frontend Development
+- Software Engineering
+- Data Science
+- Machine Learning/AI
+- Quantitative Finance
+
+# Let's Connect
+- Email: jerryxiao27@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ruijie-xiao-3696a7246/
+- Github: github.com/JCrossover-14
 
 
 <!--
